@@ -25,7 +25,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Example Questions
-- Total customers
+- Show all 2BHK customers
 - Average budget
 - Customers in Pune
 - Budget above 50 lakhs
